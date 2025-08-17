@@ -65,5 +65,13 @@
 ### 6. 팀 소개
 > 팀원 소개 & 구성원 별 역할 분담 & 간단한 연락처를 작성하세요.
 
+| 문여원 | 김태우 | 배현지 | 여채언 | 이유민 | 이지원 |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| <img width="100px" alt="문여원" src="https://github.com/myeowon.png" /> | <img width="100px" alt="김태우" src="https://github.com/minecoby.png" /> | <img width="100px" alt="배현지" src="https://github.com/baerang2.png" /> | <img width="100px" alt="여채언" src="https://github.com/yeochaeeon.png" /> | <img width="100px" alt="이유민" src="https://github.com/ymin431.png" /> | <img width="100px" alt="이지원" src="https://github.com/jiown06.png" /> |
+| myw0422@pusan.ac.kr | minecoby@pusan.ac.kr | yghj0718@pusan.ac.kr | codjs2659@pusan.ac.kr | wint123@pusan.ac.kr | jiwon06@pusan.ac.kr |
+| 정보컴퓨터공학부 <br/> 컴퓨터공학전공 | 정보컴퓨터공학부 <br/> 인공지능전공 | 아동가족학과 | 정보컴퓨터공학부 <br/> 컴퓨터공학전공 | 정보컴퓨터공학부 <br/> 컴퓨터공학전공 | 의생명융합공학부 |
+| 프론트 개발 | 백엔드 개발 | 디자이너 | AI | 프론트 개발 | 기획자 |
+
+
 ### 7. 해커톤 참여 후기
 > 팀원 별 해커톤 참여 후기를 작성하세요.
