@@ -65,6 +65,8 @@
 ### 6. 팀 소개 (완료)
 > 팀원 소개 & 구성원 별 역할 분담 & 간단한 연락처를 작성하세요.
 
+> 안녕하세요, JobMate를 만든 잡(Job)아보소 팀입니다.
+
 | 문여원 | 김태우 | 배현지 | 여채언 | 이유민 | 이지원 |
 |:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 | <img width="100px" alt="문여원" src="https://github.com/myeowon.png" /> | <img width="100px" alt="김태우" src="https://github.com/minecoby.png" /> | <img width="100px" alt="배현지" src="https://github.com/baerang2.png" /> | <img width="100px" alt="여채언" src="https://github.com/yeochaeeon.png" /> | <img width="100px" alt="이유민" src="https://github.com/ymin431.png" /> | <img width="100px" alt="이지원" src="https://github.com/jiown06.png" /> |
