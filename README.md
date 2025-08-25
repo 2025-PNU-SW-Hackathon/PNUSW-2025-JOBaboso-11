@@ -1,3 +1,6 @@
+# 부산 지역 대학생의 취업 준비 전 과정을 함께하는 러닝메이트,잡메이트(JobMate)
+<img width="3000" height="2400" alt="image" src="https://github.com/user-attachments/assets/1a42092a-f5df-45cc-8797-6ac74b116b6d" />
+
 # 1. 프로젝트 소개
 ## 1.1. 개발배경 및 필요성
 ### 1.1.1 부산의 대학생/취준생 입장
