@@ -1,0 +1,60 @@
+# services:
+#   db:
+#     image: mysql:8.0
+#     restart: always
+#     volumes:
+#       - jobaboso_mysql_data:/var/lib/mysql
+#       - ./jobaboso.sql:/docker-entrypoint-initdb.d/jobaboso.sql
+#     environment:
+#       MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+#       MYSQL_DATABASE: ${MYSQL_DATABASE}
+#       MYSQL_USER: ${MYSQL_USER}
+#       MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+#     ports:
+#       - "3308:3306"
+#   redis:
+#     image: redis:7
+#     container_name: redis_jobaboso
+#     restart: always
+#     ports:
+#       - "6378:6379"
+
+#   backend:
+#     build:
+#       context: ./
+#     volumes:
+#       - ./app:/app
+#     env_file:
+#       - ./.env
+#     depends_on:
+#       - db
+#       - redis
+#     ports:
+#       - "8000:8000"
+#     command: ["python", "main.py"]
+
+# volumes:
+#   jobaboso_mysql_data:
+
+version: "3"
+
+services:
+  redis:
+    image: redis:7
+    container_name: redis_jobaboso
+    restart: always
+    ports:
+      - "6378:6379"
+
+  backend:
+    build:
+      context: ./
+    volumes:
+      - ./app:/app
+    env_file:
+      - ./.env
+    depends_on:
+      - redis
+    ports:
+      - "8000:8000"
+    command: ["python", "main.py"]
