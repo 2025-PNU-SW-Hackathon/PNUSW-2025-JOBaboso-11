@@ -53,7 +53,7 @@
 학생은 전략을 세우고,교직원은 현황을 파악하는  
 ***부산 지역 대학생의 취업 준비 전 과정을 함께하는 러닝메이트, 잡메이트(JobMate)*** 를 기획하게 되었다.
 
-  <br>
+<br>
 
   
 ## 1.2. 개발 목표 및 주요 내용
@@ -199,7 +199,17 @@
 
 ### 3. 개발결과
 #### 3.1. 전체시스템 흐름도
-> 위 내용을 작성하세요.
+> IA (information architecture)
+<img width="464" height="317" alt="통합" src="https://github.com/user-attachments/assets/9e52d39a-c004-4151-b164-4ce2960bf584" />
+
+- 개인회원
+
+<img width="1109" height="750" alt="개인" src="https://github.com/user-attachments/assets/d92ab107-68bb-46d2-8e8e-c2a0179995e7" />
+
+- 기업회원
+
+<img width="653" height="424" alt="기업" src="https://github.com/user-attachments/assets/db277882-d2e3-4a16-8a82-65fe623adea8" />
+
 
 #### 3.2. 기능설명
 > 각 페이지 마다 사용자의 입력의 종류와 입력에 따른 결과 설명 및 시연 영상.
