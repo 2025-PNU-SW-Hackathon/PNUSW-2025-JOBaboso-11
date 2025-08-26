@@ -568,7 +568,7 @@ Jobaboso-front/                   app/
 - 도메인 주소 발급되면 업데이트 하겠습니다!
 
 # 5. 소개 및 시연 영상
-[![시연 영상](https://img.youtube.com/vi/wAY2qZIokBM/0.jpg)](https://www.youtube.com/watch?v=wAY2qZIokBM)
+[<img width="1500" height="1200" alt="v1" src="https://github.com/user-attachments/assets/2d661be4-5b5f-4620-bfaa-11f135c2e588" />](https://www.youtube.com/watch?v=wAY2qZIokBM)
 
 # 6. 팀 소개
 > 안녕하세요, JobMate를 만든 잡(Job)아보소 팀입니다.
