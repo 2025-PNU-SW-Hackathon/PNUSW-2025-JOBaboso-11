@@ -568,8 +568,7 @@ Jobaboso-front/                   app/
 - 도메인 주소 발급되면 업데이트 하겠습니다!
 
 # 5. 소개 및 시연 영상
-> 프로젝트에 대한 소개와 시연 영상을 넣으세요.
-> 프로젝트 소개 동영상을 교육원 메일(swedu@pusan.ac.kr)로 제출 이후 센터에서 부여받은 youtube URL주소를 넣으세요.
+[![시연 영상](https://img.youtube.com/vi/wAY2qZIokBM/0.jpg)](https://www.youtube.com/watch?v=wAY2qZIokBM)
 
 # 6. 팀 소개
 > 안녕하세요, JobMate를 만든 잡(Job)아보소 팀입니다.
