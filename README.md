@@ -231,7 +231,7 @@
 
 <table>
   <tr>
-    <td align="center" valign="top">
+    <td width="560" align="center" valign="top">
       <img src="https://github.com/user-attachments/assets/1d4e5274-b9ab-464d-9304-64ac33fd1885"
            alt="잡메이트 메인" width="520">
     </td>
@@ -252,12 +252,12 @@
 
 <table>
   <tr>
-    <td align="center" valign="top">
+    <td width="560" align="center" valign="top">
       <img src="https://github.com/user-attachments/assets/eada960b-6827-4f0c-9a27-3645957f75d6"
            alt="회원가입 유형 선택" width="520">
     </td>
     <td valign="top">
-      <h3>회원가입 유형 선택 페이지</h3>
+      <h3>회원가입 유형 선택 </h3>
       <ul>
         <li><b>개인 회원</b>, <b>기업 회원</b>, <b>대학교 교직원 회원</b> 중 어떤 유형으로 가입할지 선택</li>
         <li>선택한 유형에 따라 해당하는 <b>회원가입 페이지</b>로 이동</li>
@@ -270,12 +270,12 @@
 
 <table>
   <tr>
-    <td align="center" valign="top">
+    <td width="560" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/a0203efa-0311-42dd-a9d0-a2b17a48f98f"
            alt="개인 회원가입 페이지" width="520">
     </td>
     <td valign="top">
-      <h3>개인 회원 회원가입</h3>
+      <h3>개인 회원가입</h3>
       <ul>
         <li><b>대상</b>: 취업이나 진로 준비를 하고 있는 학생, 구직자 등 개인</li>
         <li><b>전화번호 인증</b>: 중복 회원가입 방지</li>
@@ -293,7 +293,7 @@
 #### 1.4. 대학교 교직원 회원가입 페이지
 <table>
   <tr>
-    <td align="center" valign="top">
+    <td width="560" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/f538d24a-15b8-4024-aeaa-39856c747388"
            alt="대학교 교직원 회원가입 페이지" width="520">
     </td>
@@ -317,12 +317,12 @@
 #### 1.5. 기업 회원가입 페이지
 <table>
   <tr>
-    <td align="center" valign="top">
+    <td width="560" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/ce65c200-f008-4a58-8665-e893a835359d"
            alt="기업 회원가입" width="520">
     </td>
     <td valign="top">
-      <h3>기업회원 회원가입 페이지</h3>
+      <h3>기업 회원가입 페이지</h3>
       <ul>
         <li><b>대상</b>: 기업</li>
         <li><b>기업 정보 입력</b>: 기업 형태, 사업자등록명, 회사명, 회사 주소</li>
@@ -339,7 +339,7 @@
 #### 1.6. 로그인 페이지
 <table>
   <tr>
-    <td align="center" valign="top">
+    <td width="560" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/639251b2-8170-4afb-8555-8318cdf37b95"
            alt="로그인 페이지" width="520">
     </td>
@@ -358,32 +358,101 @@
 
 ### 2. 개인 회원 기능
 #### 2.1. 메인페이지
-- 개인 회원 사용자에게 사용자 맞춤형 정보를 제공하는 메인 대시보드 페이지
-- 캘린더 보기: 다가오는 취업 일정을 한눈에 확인할 수 있는 미니 캘린더 위젯
-  - 서류 마감일, 면접 일정, 결과 발표일 등 중요한 일정을 색상별로 구분하여 표시
-  - 클릭 시 전체 캘린더 페이지로 이동하여 상세 일정 관리 가능
-- 미션 시작하기: 오늘의 미션 페이지로 바로 이동할 수 있는 빠른 액세스 버튼
-  - 미션 완료 여부에 따라 버튼 상태가 변경되어 진행 상황을 직관적으로 확인
-  - 포인트 획득 현황과 연속 수행 일수 등의 성취 정보 표시
-- 닮은 지원자 TOP3: AI 분석을 통해 나와 유사한 스펙을 가진 지원자들의 취업 성과 요약
-  - 학교, 전공, 학점, 스킬 등을 종합적으로 분석하여 매칭도가 높은 상위 3명 표시
-  - 각 지원자의 합격 기업, 준비 기간, 주요 스펙 등의 핵심 정보 제공
-- 부산 커리어 지도: 부산 지역의 취업 관련 정보를 지도 기반으로 시각화
-  - 기업 위치, 채용박람회, 취업박람회, 공모전 정보를 지도와 함께 제공
-  - 거리별, 업종별 필터링을 통해 맞춤형 정보 탐색 가능
-  - 관심 기업 저장 및 알림 설정 기능 포함
-- 취업 인사이트: 실시간 취업 시장 동향과 개인 맞춤형 분석 정보
-  - 지원자의 희망 직군/기업에 대한 최신 채용 트렌드 분석
-  - 경쟁률, 요구 스펙, 합격률 등의 통계 정보를 시각적 차트로 제공
-  - 부산 지역 특화 채용 정보와 지역 기업 동향 포함
-- 추천 채용 공고: 사용자의 스펙과 희망 조건을 바탕으로 AI가 추천하는 맞춤형 채용 정보
-  - 학력, 전공, 스킬, 희망 지역/직군을 종합 분석하여 매칭도 순으로 정렬
-  - 지원 마감일, 채용 절차, 우대 사항 등의 핵심 정보를 간략히 표시
-  - 원클릭 지원 기능과 관심 기업 저장 기능 제공
-- 비슷한 스펙을 가진 사람들의 합불 결과: 동일한 조건의 지원자들의 실제 채용 결과 데이터
-  - 같은 학교/학과, 유사한 학점대, 비슷한 스킬셋을 가진 지원자들의 합격/불합격 통계
-  - 기업별, 직군별 합격률과 주요 합격 요인 분석 제공
-  - 개인의 경쟁력 위치를 객관적으로 파악할 수 있는 벤치마킹 정보
+
+> 개인 회원 사용자에게 사용자 맞춤형 정보를 제공하는 메인 대시보드 페이지
+<table>
+  <tr>
+    <td width="560" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/616d4b9d-5500-4730-9fda-1edbf095daba"
+           alt="대시보드 요약 위젯" width="520">
+    </td>
+    <td valign="top">
+      <h3>개인 회원 메인페이지 - 1</h3>
+      <ul>
+        <li><b>캘린더 보기</b>: 다가오는 취업 일정을 한눈에 확인할 수 있는 미니 캘린더 위젯
+          <ul>
+            <li>서류 마감일, 면접 일정, 결과 발표일 등 중요 일정 색상 구분</li>
+            <li>클릭 시 전체 캘린더 페이지로 이동하여 상세 일정 관리</li>
+          </ul>
+        </li>
+        <li><b>미션 시작하기</b>: 오늘의 미션 페이지로 바로 이동하는 빠른 액세스 버튼
+          <ul>
+            <li>미션 완료 여부에 따라 버튼 상태가 변경되어 진행 상황을 직관적으로 확인</li>
+            <li>포인트 획득 현황, 연속 수행 일수 등 성취 정보 표시</li>
+          </ul>
+        </li>
+        <li><b>닮은 지원자 TOP 3</b>: AI 분석으로 나와 유사한 스펙의 지원자 취업 성과 요약
+          <ul>
+            <li>학교, 전공, 학점, 스킬 등을 종합 분석하여 매칭도 상위 3명 표시</li>
+            <li>각 지원자의 합격 기업, 준비 기간, 주요 스펙 등 핵심 정보 제공</li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="560" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/14a4c2cd-411a-4cc1-b23f-7831e35c809f"
+           alt="부산 커리어 지도" width="520">
+    </td>
+    <td valign="top">
+      <h3>개인 회원 메인페이지 - 2 </h3>
+      <h4>커리어 지도</h4>      
+      <ul>
+        <li><b>지도 기반 시각화</b>: 부산 지역의 취업 관련 정보를 한눈에 확인</li>
+        <li><b>정보 제공</b>: 기업 위치, 채용/취업 박람회, 공모전</li>
+        <li><b>맞춤 탐색</b>: 거리·업종별 필터링</li>
+        <li><b>개인화</b>: 관심 기업 저장 및 알림 설정</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="560" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/93e480b5-6ca5-4fb7-bef2-b8e884c0796f"
+           alt="취업 인사이트" width="520">
+    </td>
+    <td valign="top">
+      <h3>개인회원 메인페이지 - 3</h3>
+      <h4>취업 인사이트</h4>
+      <ul>
+        <li><b>실시간 동향</b>: 희망 직군/기업 기준 최신 채용 트렌드 분석</li>
+        <li><b>통계 차트</b>: 내 학과 기준 <b>합격률</b>, <b>가장 많이 합격한 기업</b>, <b>가장 인기 있는 기업</b> 지표 시각화</li>
+        <li><b>개발자 최신 이슈</b>: 출처/날짜가 포함된 카드 피드(좌우 스와이프, 전체보기 링크)</li>
+        <li><b>학교 공지</b>: <u>부산대학교 SW센터 공지사항</u> 요약 리스트 및 자세히 보기</li>
+        <li><b>취업 지원 정보</b>: 취업장려금, 부산지역인재 장학금, 정장대여, 청년 일자리도약 장려금 등 제도 카드</li>
+        <li><b>개인화</b>: 학교·학과/관심 직무 기반으로 콘텐츠 우선 노출</li>
+      </ul>
+  </td>
+
+<table>
+  <tr>
+    <td width="560" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/2611718e-b9f2-4df4-a78c-530aaff8aabf"
+           alt="추천 채용 공고 & 합불 결과 벤치마크" width="520">
+    </td>
+    <td valign="top">
+      <h3>개인회원 메인페이지 - 4 </h3>
+      <h4>추천 채용 공고</h4>
+      <ul>
+        <li><b>맞춤 추천</b>: 학력, 전공, 스킬, 희망 지역/직군을 종합 분석해 <b>매칭도 순</b> 정렬</li>
+        <li><b>핵심 정보</b>: 지원 마감일, 채용 절차, 우대 사항 등의 핵심정보를 요약 제공</li>
+        <li><b>빠른 액션</b>: 원클릭 지원 및 관심 기업 저장 기능</li>
+      </ul>
+      <h4>비슷한 스펙의 합/불 결과</h4>
+      <ul>
+        <li><b>동일 조건 비교</b>: 같은 학교/학과, 유사 학점·스킬셋 지원자들의 합격/불합격 통계</li>
+        <li><b>분석 지표</b>: 기업·직군별 합격률과 주요 합격 요인 분석</li>
+        <li><b>벤치마킹</b>: 내 경쟁력 위치를 객관적으로 파악</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 #### 2.2. 나의 목표, 직군, 스펙 등록 페이지
 - 개인 회원이 자신의 취업 목표, 희망 직군, 학력, 경력, 스킬 등 모든 스펙 정보를 입력하고 수정할 수 있는 페이지
