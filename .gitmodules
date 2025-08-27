@@ -1,0 +1,6 @@
+[submodule "Jobaboso-front"]
+	path = Jobaboso-front
+	url = https://github.com/JOBaboso/Jobaboso-front.git
+[submodule "Jobaboso-back"]
+	path = Jobaboso-back
+	url = https://github.com/JOBaboso/Jobaboso-back.git
