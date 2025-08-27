@@ -362,7 +362,7 @@
 > 개인 회원 사용자에게 사용자 맞춤형 정보를 제공하는 메인 대시보드 페이지
 <table>
   <tr>
-    <td width="560" align="center" valign="middle">
+    <td width="500" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/616d4b9d-5500-4730-9fda-1edbf095daba"
            alt="대시보드 요약 위젯" width="520">
     </td>
