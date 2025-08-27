@@ -187,7 +187,8 @@
 
 # 2. 상세설계
 ## 2.1. 시스템 구성도
-> 시스템 구성도(infra, front, back등의 node 간의 관계)의 사진을 삽입하세요.
+<img width="601" height="393" alt="시스템구성도" src="https://github.com/user-attachments/assets/4d667135-147a-4703-a728-c33e63744c2b" />
+
 
 ## 2.2. 사용 기술
 | 범주      | 이름          | 버전        |
