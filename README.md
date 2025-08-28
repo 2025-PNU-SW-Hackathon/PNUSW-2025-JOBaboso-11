@@ -231,11 +231,11 @@
 
 <table>
   <tr>
-    <td width="560" align="center" valign="top">
+    <td width="500" align="center" valign="top">
       <img src="https://github.com/user-attachments/assets/1d4e5274-b9ab-464d-9304-64ac33fd1885"
-           alt="잡메이트 메인" width="520">
+           alt="잡메이트 메인" width="490">
     </td>
-    <td valign="top">
+    <td width="500" valign="top">
       <h3>잡메이트 메인 소개 페이지</h3>
       <ul>
         <li><b>서비스 소개</b>: 잡메이트의 핵심 기능과 가치를 시각적으로 소개</li>
@@ -252,11 +252,11 @@
 
 <table>
   <tr>
-    <td width="560" align="center" valign="top">
+    <td width="500" align="center" valign="top">
       <img src="https://github.com/user-attachments/assets/eada960b-6827-4f0c-9a27-3645957f75d6"
-           alt="회원가입 유형 선택" width="520">
+           alt="회원가입 유형 선택" width="490">
     </td>
-    <td valign="top">
+    <td width="500" valign="top">
       <h3>회원가입 유형 선택 </h3>
       <ul>
         <li><b>개인 회원</b>, <b>기업 회원</b>, <b>대학교 교직원 회원</b> 중 어떤 유형으로 가입할지 선택</li>
@@ -270,11 +270,10 @@
 
 <table>
   <tr>
-    <td width="560" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/a0203efa-0311-42dd-a9d0-a2b17a48f98f"
-           alt="개인 회원가입 페이지" width="520">
+    <td width="500" align="center" valign="middle">
+      <img width="490" alt="개인 회원가입" src="https://github.com/user-attachments/assets/b9949077-7bf3-41e5-9148-5207ade8fed6" />
     </td>
-    <td valign="top">
+    <td width="500" valign="top">
       <h3>개인 회원가입</h3>
       <ul>
         <li><b>대상</b>: 취업이나 진로 준비를 하고 있는 학생, 구직자 등 개인</li>
@@ -293,11 +292,10 @@
 #### 1.4. 대학교 교직원 회원가입 페이지
 <table>
   <tr>
-    <td width="560" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/f538d24a-15b8-4024-aeaa-39856c747388"
-           alt="대학교 교직원 회원가입 페이지" width="520">
+    <td width="500" align="center" valign="middle">
+      <img width="490" alt="교직원 회원가입" src="https://github.com/user-attachments/assets/05054339-ab7f-40ed-979a-d1125c17aa47" />
     </td>
-    <td valign="top">
+    <td width="500" valign="top">
       <h3>대학교 교직원 회원가입</h3>
       <ul>
         <li><b>대상</b>: 대학교에서 진로·취업 지원을 담당하는 교직원</li>
@@ -317,11 +315,10 @@
 #### 1.5. 기업 회원가입 페이지
 <table>
   <tr>
-    <td width="560" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/ce65c200-f008-4a58-8665-e893a835359d"
-           alt="기업 회원가입" width="520">
+    <td width="500" align="center" valign="middle">
+      <img width="490" alt="기업 회원가입" src="https://github.com/user-attachments/assets/7252457f-5927-4448-96f4-72959bd57aa1" />
     </td>
-    <td valign="top">
+    <td width="500" valign="top">
       <h3>기업 회원가입 페이지</h3>
       <ul>
         <li><b>대상</b>: 기업</li>
@@ -339,11 +336,11 @@
 #### 1.6. 로그인 페이지
 <table>
   <tr>
-    <td width="560" align="center" valign="middle">
+    <td width="500" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/639251b2-8170-4afb-8555-8318cdf37b95"
-           alt="로그인 페이지" width="520">
+           alt="로그인 페이지" width="490">
     </td>
-    <td valign="top">
+    <td width="500" valign="top">
       <h3>로그인 페이지</h3>
       <ul>
         <li><b>회원 유형 선택</b>: 개인 회원, 기업 회원, 대학교 교직원 회원 탭</li>
@@ -364,9 +361,9 @@
   <tr>
     <td width="500" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/616d4b9d-5500-4730-9fda-1edbf095daba"
-           alt="대시보드 요약 위젯" width="520">
+           alt="대시보드 요약 위젯" width="490">
     </td>
-    <td valign="top">
+    <td width="500" valign="top">
       <h3>개인 회원 메인페이지 - 1</h3>
       <ul>
         <li><b>캘린더 보기</b>: 다가오는 취업 일정을 한눈에 확인할 수 있는 미니 캘린더 위젯
@@ -394,11 +391,11 @@
 
 <table>
   <tr>
-    <td width="560" align="center" valign="middle">
+    <td width="500" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/14a4c2cd-411a-4cc1-b23f-7831e35c809f"
-           alt="부산 커리어 지도" width="520">
+           alt="부산 커리어 지도" width="490">
     </td>
-    <td valign="top">
+    <td width="500" valign="top">
       <h3>개인 회원 메인페이지 - 2 </h3>
       <h4>커리어 지도</h4>      
       <ul>
@@ -413,11 +410,11 @@
 
 <table>
   <tr>
-    <td width="560" align="center" valign="middle">
+    <td width="500" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/93e480b5-6ca5-4fb7-bef2-b8e884c0796f"
-           alt="취업 인사이트" width="520">
+           alt="취업 인사이트" width="490">
     </td>
-    <td valign="top">
+    <td width="500" valign="top">
       <h3>개인회원 메인페이지 - 3</h3>
       <h4>취업 인사이트</h4>
       <ul>
@@ -432,11 +429,11 @@
 
 <table>
   <tr>
-    <td width="560" align="center" valign="middle">
+    <td width="500" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/2611718e-b9f2-4df4-a78c-530aaff8aabf"
-           alt="추천 채용 공고 & 합불 결과 벤치마크" width="520">
+           alt="추천 채용 공고 & 합불 결과 벤치마크" width="490">
     </td>
-    <td valign="top">
+    <td width="500" valign="top">
       <h3>개인회원 메인페이지 - 4 </h3>
       <h4>추천 채용 공고</h4>
       <ul>
@@ -457,15 +454,12 @@
 #### 2.2. 나의 목표, 직군, 스펙 등록 페이지
 <!-- 간격 -->
 <table>
-<tr><td colspan="2" height="16"></td></tr>
-
 <!-- 개인회원 스펙 입력 페이지 -->
 <tr>
-  <td width="560" align="center" valign="middle">
-    <!-- TODO: 아래 IMG_URL을 실제 스크린샷 주소로 교체 -->
-    <img src="IMG_URL" alt="개인회원 스펙 입력 페이지" width="520">
+  <td width="500" align="center" valign="middle">
+    <img width="490" alt="나의 목표 직군 스펙 등록" src="https://github.com/user-attachments/assets/e252e478-1aa2-4396-a071-a854ad50f56b" />
   </td>
-  <td valign="top">
+  <td width="500" valign="top">
     <h3>개인회원 스펙 입력 페이지</h3>
     <ul>
       <li><b>개요</b>: 개인 회원이 취업 목표, 희망 직군, 학력, 경력, 스킬 등 전체 스펙을 입력·수정</li>
@@ -490,15 +484,13 @@
 
 <!-- 간격 -->
 <table>
-<tr><td colspan="2" height="16"></td></tr>
 
 <!-- 개인회원 스펙 미리보기 페이지 -->
 <tr>
-  <td width="560" align="center" valign="middle">
-    <!-- TODO: IMG_URL을 실제 미리보기 스크린샷 URL로 교체 -->
-    <img src="IMG_URL" alt="개인회원 스펙 미리보기 페이지" width="520">
+  <td width="500" align="center" valign="middle">
+    <img width="490" alt="나의 목표 직군 스펙 미리보기" src="https://github.com/user-attachments/assets/1e27ea61-e061-4fcb-b884-de773ad83596" />
   </td>
-  <td valign="top">
+  <td width="500" valign="top">
     <h3>개인회원 스펙 미리보기 페이지</h3>
     <ul>
       <li><b>개요</b>: 개인 회원이 입력한 모든 스펙 정보를 한눈에 확인</li>
@@ -514,12 +506,11 @@
 #### 3.1. 전체 지원 현황 페이지
 <!-- 간격 -->
 <table>
-<tr><td colspan="2" height="16"></td></tr>
 
 <!-- 개인회원 지원 현황 페이지 -->
 <tr>
   <td width="500" align="center" valign="middle">
-    <img src="IMG_URL_전체지원현황" alt="개인회원 지원 현황 페이지" width="490">
+    <img width="490" alt="전체지원현황" src="https://github.com/user-attachments/assets/afac41f0-89cc-4751-98a2-78a9ae8f9087" />
   </td>
   <td width="500" valign="top">
     <h3>개인회원 지원 현황 페이지</h3>
@@ -538,11 +529,10 @@
 #### 3.2. 지원하기 페이지
 <!-- 간격 -->
 <table>
-<tr><td colspan="2" height="16"></td></tr>
 
 <tr>
   <td width="500" align="center" valign="middle">
-    <img src="IMG_URL_지원하기" alt="지원하기 페이지" width="490">
+    <img width="490" alt="지원하기" src="https://github.com/user-attachments/assets/f893bea1-8492-4275-a371-89267a5e4d78" />
   </td>
   <td width="500" valign="top">
     <h3>지원하기 페이지</h3>
@@ -561,11 +551,10 @@
 #### 3.3. 지원서 상세 페이지
 <!-- 간격 -->
 <table>
-<tr><td colspan="2" height="16"></td></tr>
 
 <tr>
   <td width="500" align="center" valign="middle">
-    <img src="IMG_URL_지원서상세" alt="지원서 상세 페이지" width="490">
+    <img width="490" alt="지원 상세" src="https://github.com/user-attachments/assets/c851e460-03c8-47ed-afb9-37ae208d3b1a" />
   </td>
   <td width="500" valign="top">
     <h3>지원서 상세 페이지</h3>
@@ -586,11 +575,10 @@
 #### 3.4. 캘린더 페이지
 <!-- 간격 -->
 <table>
-<tr><td colspan="2" height="16"></td></tr>
 
 <tr>
   <td width="500" align="center" valign="middle">
-    <img src="IMG_URL_캘린더" alt="캘린더 페이지" width="490">
+    <img width="490" alt="캘린더" src="https://github.com/user-attachments/assets/abc7a5e8-2050-40e7-825f-4ee8b439d374" />
   </td>
   <td width="500" valign="top">
     <h3>캘린더 페이지</h3>
@@ -609,11 +597,10 @@
 #### 3.5. 찜 제안 페이지
 <!-- 간격 -->
 <table>
-<tr><td colspan="2" height="16"></td></tr>
 
 <tr>
   <td width="500" align="center" valign="middle">
-    <img src="IMG_URL_찜제안" alt="찜 제안 페이지" width="490">
+    <img width="490" alt="찜 제안 확인" src="https://github.com/user-attachments/assets/9e957fe7-5042-40c0-bbd6-dcae7cb79703" />
   </td>
   <td width="500" valign="top">
     <h3>찜 제안 페이지</h3>
@@ -634,14 +621,13 @@
 #### 4.1. 나의 취업 후기 페이지
 <!-- 간격 -->
 <table>
-<tr><td colspan="2" height="16"></td></tr>
 
 <!-- 나의 취업 후기 페이지 -->
 <tr>
   <td width="500" align="center" valign="middle">
-    <img src="IMG_URL_나의_후기" alt="나의 후기 페이지" width="490">
+    <img width="490" alt="취업 후기 미리보기" src="https://github.com/user-attachments/assets/7e9b0764-e973-44d1-9d59-6e3b98db8bd9" />
   </td>
-  <td valign="top">
+  <td width="500" valign="top">
     <h3>나의 취업 후기 페이지</h3>
     <ul>
       <li><b>개요</b>: 사용자가 작성한 면접 후기들을 한눈에 확인하고 관리할 수 있는 페이지</li>
@@ -658,14 +644,14 @@
 #### 4.2. 취업 후기 작성 페이지
 <!-- 간격 -->
 <table>
-<tr><td colspan="2" height="16"></td></tr>
 
 <!-- 취업 후기 작성 페이지 -->
 <tr>
   <td width="500" align="center" valign="middle">
-    <img src="IMG_URL_후기작성" alt="취업 후기 작성 페이지" width="490">
+    <img width="490" alt="취업후기 작성" src="https://github.com/user-attachments/assets/a576217e-5538-412b-9c57-92911be0789a" />
+    <img width="490" alt="후기작성 포인트" src="https://github.com/user-attachments/assets/d8957029-4abe-4633-bb40-b294b7faecba" />
   </td>
-  <td valign="top">
+  <td width="500" valign="top">
     <h3>취업 후기 작성 페이지</h3>
     <ul>
       <li><b>개요</b>: 새로운 면접 후기를 작성하거나 기존 후기를 수정할 수 있는 페이지</li>
@@ -686,11 +672,11 @@
 <!-- 간격 -->
 <table>
 
-<tr><td colspan="2" height="16"></td></tr>
-
 <tr>
   <td width="500" align="center" valign="middle">
-    <img src="IMG_URL_스펙벤치마크" alt="스펙 벤치마크 페이지" width="490">
+    <img width="490" alt="스펙 벤치마크" src="https://github.com/user-attachments/assets/4b1058ea-8667-4de0-abc5-0e2c811ad396" />
+    <img width="490" alt="벤치마크 포인트" src="https://github.com/user-attachments/assets/2e3d7d91-562a-4cea-8ca7-9eb5bf1e32e4" />
+    <img width="490" alt="벤치마크 열람" src="https://github.com/user-attachments/assets/32d501cb-007e-402a-9ccb-b6ae7d11eec9" />
   </td>
   <td width="500" valign="top">
     <h3>스펙 벤치마크 페이지</h3>
@@ -712,11 +698,12 @@
 #### 6.1. 미션 페이지
 <!-- 간격 -->
 <table>
-<tr><td colspan="2" height="16"></td></tr>
 
 <tr>
   <td width="500" align="center" valign="middle">
-    <img src="IMG_URL_미션페이지" alt="미션 페이지" width="490">
+    <img width="490" alt="일일미션" src="https://github.com/user-attachments/assets/1972b8ff-d261-44c6-8c81-598411fe8037" />
+    <img width="490" alt="미션 작성" src="https://github.com/user-attachments/assets/ff45c692-8098-4eb1-b9a1-78ebb19f115e" />
+    <img width="490" alt="미션 포인트" src="https://github.com/user-attachments/assets/12915564-10b4-4fcc-b628-67f05033c4d2" />
   </td>
   <td width="500" valign="top">
     <h3>미션 페이지</h3>
@@ -738,11 +725,11 @@
 #### 7.1. 취업 이야기 페이지 (커뮤니티)
 <!-- 간격 -->
 <table>
-<tr><td colspan="2" height="16"></td></tr>
 
 <tr>
   <td width="500" align="center" valign="middle">
-    <img src="IMG_URL_커뮤니티" alt="취업 이야기 페이지 (커뮤니티)" width="490">
+    <img width="490" alt="커뮤니티" src="https://github.com/user-attachments/assets/088d3943-7a64-419c-898b-25f0135797d0" />
+
   </td>
   <td width="500" valign="top">
     <h3>취업 이야기 페이지 (커뮤니티)</h3>
@@ -762,11 +749,10 @@
 #### 7.2. 기업 컨텐츠 페이지
 <!-- 간격 -->
 <table>
-<tr><td colspan="2" height="16"></td></tr>
 
 <tr>
   <td width="500" align="center" valign="middle">
-    <img src="IMG_URL_기업컨텐츠" alt="기업 컨텐츠 페이지" width="490">
+    <img width="490" alt="기업 콘텐츠" src="https://github.com/user-attachments/assets/fc5eff64-50c0-4a60-81e6-4c9923a6678e" />
   </td>
   <td width="500" valign="top">
     <h3>기업 컨텐츠 페이지</h3>
@@ -785,11 +771,10 @@
 #### 7.3. 기업 컨텐츠 상세 페이지
 <!-- 간격 -->
 <table>
-<tr><td colspan="2" height="16"></td></tr>
 
 <tr>
   <td width="500" align="center" valign="middle">
-    <img src="IMG_URL_기업컨텐츠상세" alt="기업 컨텐츠 상세 페이지" width="490">
+    <img width="490" alt="기업 콘텐츠 상세" src="https://github.com/user-attachments/assets/e989c419-5dbf-41af-8de7-32762eafa44e" />
   </td>
   <td width="500" valign="top">
     <h3>기업 컨텐츠 상세 페이지</h3>
@@ -809,11 +794,10 @@
 #### 8.1. 학과 현황 대시보드
 <!-- 간격 -->
 <table>
-<tr><td colspan="2" height="16"></td></tr>
 
 <tr>
   <td width="500" align="center" valign="middle">
-    <img src="https://github.com/user-attachments/assets/01e96829-ca5f-4873-863c-f5e2ce8e3b74" alt="학과 현황 대시보드" width="490">
+    <img width="490" alt="교직원 홈" src="https://github.com/user-attachments/assets/24be7d36-47db-4c8c-ba11-8ec60277fe0f" />
   </td>
   <td width="500" valign="top">
     <h3>학과 현황 대시보드</h3>
@@ -834,11 +818,11 @@
 #### 8.2. 학생 관리 페이지
 <!-- 간격 -->
 <table>
-<tr><td colspan="2" height="16"></td></tr>
 
 <tr>
   <td width="500" align="center" valign="middle">
-    <img src="IMG_URL_학생관리" alt="학생 관리 페이지" width="490">
+    <img width="490" alt="스펙 확인" src="https://github.com/user-attachments/assets/57920acb-bb5a-4b80-a1fc-8c7c0b7b3048" />
+    <img width="490" alt="스펙 확인 ai" src="https://github.com/user-attachments/assets/304cddd3-0eab-46f9-83a8-a5a5511066f8" />
   </td>
   <td width="500" valign="top">
     <h3>학생 관리 페이지</h3>
@@ -861,11 +845,10 @@
 #### 9.1. 기업 콘텐츠 관리 페이지
 <!-- 간격 -->
 <table>
-<tr><td colspan="2" height="16"></td></tr>
 
 <tr>
   <td width="500" align="center" valign="middle">
-    <img src="IMG_URL_기업콘텐츠관리" alt="기업 콘텐츠 관리 페이지" width="490">
+    <img width="490" alt="기업 콘텐츠 목록" src="https://github.com/user-attachments/assets/3b61ad91-4c4b-422c-833f-e11586bf2029" />
   </td>
   <td width="500" valign="top">
     <h3>기업 콘텐츠 관리 페이지</h3>
@@ -884,11 +867,9 @@
 #### 9.2. 기업 콘텐츠 작성 페이지
 <!-- 간격 -->
 <table>
-<tr><td colspan="2" height="16"></td></tr>
-
 <tr>
   <td width="500" align="center" valign="middle">
-    <img src="IMG_URL_기업콘텐츠작성" alt="기업 콘텐츠 작성 페이지" width="490">
+    <img width="490" alt="기업 콘텐츠 작성" src="https://github.com/user-attachments/assets/84b045a4-fe16-42e5-a520-89a9efa19d16" />
   </td>
   <td width="500" valign="top">
     <h3>기업 콘텐츠 작성 페이지</h3>
@@ -910,11 +891,10 @@
 <!-- 간격 -->
 <table>
 
-<tr><td colspan="2" height="16"></td></tr>
 
 <tr>
   <td width="500" align="center" valign="middle">
-    <img src="IMG_URL_기업콘텐츠상세" alt="기업 콘텐츠 상세 페이지" width="490">
+    <img width="490" alt="기업 컨텐츠 상세" src="https://github.com/user-attachments/assets/ea333f1f-db27-4b62-a1d1-9d80e8d4762b" />
   </td>
   <td width="500" valign="top">
     <h3>기업 콘텐츠 상세 페이지</h3>
@@ -934,11 +914,11 @@
 #### 9.4. 기업 찜하기 페이지
 <!-- 간격 -->
 <table>
-<tr><td colspan="2" height="16"></td></tr>
 
 <tr>
   <td width="500" align="center" valign="middle">
-    <img src="IMG_URL_기업찜하기" alt="기업 찜하기 페이지" width="490">
+    <img width="490" alt="찜하기 목록" src="https://github.com/user-attachments/assets/a5bc3686-5456-4e69-95ca-2d630a163a81" />
+    <img width="490" alt="찜하기 내용" src="https://github.com/user-attachments/assets/30a4ce2e-28d5-477b-a1e1-cba8726a1016" />
   </td>
   <td width="500" valign="top">
     <h3>기업 찜하기 페이지</h3>
@@ -958,11 +938,10 @@
 #### 9.5. 찜한 인재 모음 페이지
 <!-- 간격 -->
 <table>
-<tr><td colspan="2" height="16"></td></tr>
 
 <tr>
   <td width="500" align="center" valign="middle">
-    <img src="IMG_URL_찜한인재" alt="찜한 인재 모음 페이지" width="490">
+    <img width="490" alt="찜 목록" src="https://github.com/user-attachments/assets/bba34e56-2600-48af-a7e7-534e7b46dc92" />
   </td>
   <td width="500" valign="top">
     <h3>찜한 인재 모음 페이지</h3>
@@ -983,11 +962,10 @@
 #### 9.6. 구직자 스펙 상세 조회 페이지
 <!-- 간격 -->
 <table>
-<tr><td colspan="2" height="16"></td></tr>
 
 <tr>
   <td width="500" align="center" valign="middle">
-    <img src="IMG_URL_구직자스펙상세" alt="구직자 스펙 상세 조회 페이지" width="490">
+    <img width="490" alt="찜 상세" src="https://github.com/user-attachments/assets/3a51b399-8a5c-4fda-8f0b-3f8c8ec0c604" />
   </td>
   <td width="500" valign="top">
     <h3>구직자 스펙 상세 조회 페이지</h3>
