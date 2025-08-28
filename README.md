@@ -141,7 +141,9 @@
   
 
 ## 1.4. 기존 서비스 대비 차별성
-<img width="832" height="279" alt="image" src="https://github.com/user-attachments/assets/5cfbd572-c34f-4c91-a992-724b82233122" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5cfbd572-c34f-4c91-a992-724b82233122" width="800" alt="중앙 정렬 이미지" />
+</p>
 
 1. **대학교 교직원 페이지**
     
@@ -292,12 +294,11 @@
 
 
 #### 1.4. 대학교 교직원 회원가입 페이지
+
 <table>
   <tr>
     <td width="500" align="center" valign="middle">
-
       <img width="490" alt="교직원 회원가입" src="https://github.com/user-attachments/assets/05054339-ab7f-40ed-979a-d1125c17aa47" />
-
     </td>
     <td width="500" valign="top">
       <h3>대학교 교직원 회원가입</h3>
@@ -317,11 +318,11 @@
 
 
 #### 1.5. 기업 회원가입 페이지
+
 <table>
   <tr>
     <td width="500" align="center" valign="middle">
       <img width="490" alt="기업 회원가입" src="https://github.com/user-attachments/assets/7252457f-5927-4448-96f4-72959bd57aa1" />
-
     </td>
     <td width="500" valign="top">
       <h3>기업 회원가입 페이지</h3>
@@ -339,6 +340,7 @@
 </table>
 
 #### 1.6. 로그인 페이지
+
 <table>
   <tr>
     <td width="500" align="center" valign="middle">
@@ -1050,7 +1052,11 @@ Jobaboso-front/                   app/
 # 4. 설치 및 사용 방법
 > 제품을 설치하기 위헤 필요한 소프트웨어 및 설치 방법을 작성하세요.
 > 제품을 설치하고 난 후, 실행 할 수 있는 방법을 작성하세요.
-- 도메인 주소 발급되면 업데이트 하겠습니다!
+```
+git clone https://github.com/JOBaboso/Jobaboso-front.git
+npm insall
+npm run dev
+```
 
 # 5. 소개 및 시연 영상
 [<img width="1500" height="1200" alt="v1" src="https://github.com/user-attachments/assets/2d661be4-5b5f-4620-bfaa-11f135c2e588" />](https://www.youtube.com/watch?v=wAY2qZIokBM)
