@@ -1054,7 +1054,7 @@ Jobaboso-front/                   app/
 > 제품을 설치하고 난 후, 실행 할 수 있는 방법을 작성하세요.
 ```
 git clone https://github.com/JOBaboso/Jobaboso-front.git
-npm insall
+npm install
 npm run dev
 ```
 
