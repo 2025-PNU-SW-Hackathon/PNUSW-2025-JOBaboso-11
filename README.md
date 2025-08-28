@@ -293,7 +293,9 @@
 <table>
   <tr>
     <td width="500" align="center" valign="middle">
+
       <img width="490" alt="교직원 회원가입" src="https://github.com/user-attachments/assets/05054339-ab7f-40ed-979a-d1125c17aa47" />
+
     </td>
     <td width="500" valign="top">
       <h3>대학교 교직원 회원가입</h3>
@@ -317,6 +319,7 @@
   <tr>
     <td width="500" align="center" valign="middle">
       <img width="490" alt="기업 회원가입" src="https://github.com/user-attachments/assets/7252457f-5927-4448-96f4-72959bd57aa1" />
+
     </td>
     <td width="500" valign="top">
       <h3>기업 회원가입 페이지</h3>
