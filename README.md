@@ -231,7 +231,7 @@
 
 <table>
   <tr>
-    <td width="560" align="center" valign="top">
+    <td width="500" align="center" valign="top">
       <img src="https://github.com/user-attachments/assets/1d4e5274-b9ab-464d-9304-64ac33fd1885"
            alt="잡메이트 메인" width="520">
     </td>
@@ -252,7 +252,7 @@
 
 <table>
   <tr>
-    <td width="560" align="center" valign="top">
+    <td width="500" align="center" valign="top">
       <img src="https://github.com/user-attachments/assets/eada960b-6827-4f0c-9a27-3645957f75d6"
            alt="회원가입 유형 선택" width="520">
     </td>
@@ -270,7 +270,7 @@
 
 <table>
   <tr>
-    <td width="560" align="center" valign="middle">
+    <td width="500" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/a0203efa-0311-42dd-a9d0-a2b17a48f98f"
            alt="개인 회원가입 페이지" width="520">
     </td>
@@ -293,7 +293,7 @@
 #### 1.4. 대학교 교직원 회원가입 페이지
 <table>
   <tr>
-    <td width="560" align="center" valign="middle">
+    <td width="500" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/f538d24a-15b8-4024-aeaa-39856c747388"
            alt="대학교 교직원 회원가입 페이지" width="520">
     </td>
@@ -317,7 +317,7 @@
 #### 1.5. 기업 회원가입 페이지
 <table>
   <tr>
-    <td width="560" align="center" valign="middle">
+    <td width="500" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/ce65c200-f008-4a58-8665-e893a835359d"
            alt="기업 회원가입" width="520">
     </td>
@@ -339,7 +339,7 @@
 #### 1.6. 로그인 페이지
 <table>
   <tr>
-    <td width="560" align="center" valign="middle">
+    <td width="500" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/639251b2-8170-4afb-8555-8318cdf37b95"
            alt="로그인 페이지" width="520">
     </td>
@@ -394,7 +394,7 @@
 
 <table>
   <tr>
-    <td width="560" align="center" valign="middle">
+    <td width="500" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/14a4c2cd-411a-4cc1-b23f-7831e35c809f"
            alt="부산 커리어 지도" width="520">
     </td>
@@ -413,7 +413,7 @@
 
 <table>
   <tr>
-    <td width="560" align="center" valign="middle">
+    <td width="500" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/93e480b5-6ca5-4fb7-bef2-b8e884c0796f"
            alt="취업 인사이트" width="520">
     </td>
@@ -432,7 +432,7 @@
 
 <table>
   <tr>
-    <td width="560" align="center" valign="middle">
+    <td width="500" align="center" valign="middle">
       <img src="https://github.com/user-attachments/assets/2611718e-b9f2-4df4-a78c-530aaff8aabf"
            alt="추천 채용 공고 & 합불 결과 벤치마크" width="520">
     </td>
